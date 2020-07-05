@@ -48,3 +48,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Premade Database Designs and Models](http://www.databaseanswers.org/data_models/)
 - [Database design for multiple language](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
+
+## Bonus - Off Topic
+- [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
+- [git pull Vs git fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch/58743394#58743394)
+
