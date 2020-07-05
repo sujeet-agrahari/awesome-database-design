@@ -23,11 +23,15 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Data Modeling - Complex Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
+- [conceptual, logical and physical design for a database](https://www.youtube.com/watch?v=RzbH-oumqpo)
+- [Models for Hierarchical Data in SQL](https://www.youtube.com/watch?v=wuH5OoPC3hA)
 
 ### Stackoverflow
 - [Represent inheritance in a database](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database)
 - [Inheritance in a database I](https://stackoverflow.com/questions/190296/how-do-you-effectively-model-inheritance-in-a-database)
 - [Inheritance in a database II](https://stackoverflow.com/questions/554522/something-like-inheritance-in-database-design)
+- [Storing hierarchical data in a relational database](https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database)
+- [Database design for multiple language](https://stackoverflow.com/questions/929410/what-are-best-practices-for-multi-language-database-design)
 
 ### dba.stackexchange
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
@@ -36,3 +40,11 @@ Some items in this list could easily fit in more than one category, so to make s
 ### Quora
 - [Difference between NF, 2NF, and 3NF](https://www.quora.com/What-is-the-difference-between-NF-2NF-and-3NF)
 
+
+### Blogs an Links
+- [Managing hierarchical data in mysql](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
+- [Managing hierarchical RDBSM](http://troels.arvin.dk/db/rdbms/links/#hierarchical)
+- [SQL Training Videos](http://www.metamanager.com/cbt)
+- [Premade Database Designs and Models](http://www.databaseanswers.org/data_models/)
+- [Database design for multiple language](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
+- [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
