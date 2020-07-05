@@ -23,3 +23,16 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Data Modeling - Complex Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
+
+### Stackoverflow
+- [Represent inheritance in a database](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database)
+- [Inheritance in a database I](https://stackoverflow.com/questions/190296/how-do-you-effectively-model-inheritance-in-a-database)
+- [Inheritance in a database II](https://stackoverflow.com/questions/554522/something-like-inheritance-in-database-design)
+
+### dba.stackexchange
+- [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
+- [Super type/Sub type design pattern II](https://dba.stackexchange.com/questions/149904/how-to-model-an-entity-type-that-can-have-different-sets-of-attributes)
+
+### Quora
+- [Difference between NF, 2NF, and 3NF](https://www.quora.com/What-is-the-difference-between-NF-2NF-and-3NF)
+
