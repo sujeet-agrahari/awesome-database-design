@@ -26,6 +26,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [conceptual, logical and physical design for a database](https://www.youtube.com/watch?v=RzbH-oumqpo)
 - [Models for Hierarchical Data in SQL](https://www.youtube.com/watch?v=wuH5OoPC3hA)
 - [Database Lessons](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+- [B Trees and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8)
 
 ### Stackoverflow
 - [Represent inheritance in a database](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database)
