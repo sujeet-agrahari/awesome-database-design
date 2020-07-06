@@ -10,11 +10,6 @@ When it comes to database design, there are not that much resources on internet.
 Over the past couple of mongths, I've accumulated bookmarks, saved stackoverflow, dbexchange posts, youtube links, Udemy courses and GitHub stars all related to  schema design and entity modeling.
 This list is my attempt to add structure to those resources and share them. Everything you need to get started on your first database design project.
 
-
-
-
-
-
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
