@@ -33,6 +33,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Difference between identifying and non-identifying relationships](https://stackoverflow.com/questions/762937/whats-the-difference-between-identifying-and-non-identifying-relationships)
 - [Database, Table and Column Naming Conventions](https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions)
 - [Character set and Collation](https://stackoverflow.com/questions/341273/what-does-character-set-and-collation-mean-exactly)
+- [Proper use of array in Postgresql](https://stackoverflow.com/questions/6843912/what-are-the-proper-use-cases-for-the-postgresql-array-datatype)
 
 ### dba.stackexchange
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
@@ -49,7 +50,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Premade Database Designs and Models](http://www.databaseanswers.org/data_models/)
 - [Database design for multiple language](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
-- [Database Normalization Tutorial with example ](http://dotnetanalysis.blogspot.com/2012/01/database-normalization-sql-server.html)
+- [Database Normalization Tutorial with example](http://dotnetanalysis.blogspot.com/2012/01/database-normalization-sql-server.html)
+- [A guide to database performance for developers](https://use-the-index-luke.com/)
 
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
