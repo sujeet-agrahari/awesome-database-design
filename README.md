@@ -52,7 +52,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
 - [Database Normalization Tutorial with example](http://dotnetanalysis.blogspot.com/2012/01/database-normalization-sql-server.html)
 - [A guide to database performance for developers](https://use-the-index-luke.com/)
-
+- [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
 - [git pull Vs git fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch/58743394#58743394)
