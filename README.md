@@ -33,7 +33,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Difference between identifying and non-identifying relationships](https://stackoverflow.com/questions/762937/whats-the-difference-between-identifying-and-non-identifying-relationships)
 - [Database, Table and Column Naming Conventions](https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions)
 - [Character set and Collation](https://stackoverflow.com/questions/341273/what-does-character-set-and-collation-mean-exactly)
-- [Proper use of array in Postgresql](https://stackoverflow.com/questions/6843912/what-are-the-proper-use-cases-for-the-postgresql-array-datatype)
+- [Proper use of array in Postgresql](https://stac43912/what-are-the-proper-use-cases-for-the-postgresql-array-datatype)
+- [Why do you create a View in a database?](https://stackoverflow.com/questions/1278521/why-do-you-create-a-view-in-a-database)
 
 ### dba.stackexchange
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
