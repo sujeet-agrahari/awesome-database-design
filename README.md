@@ -36,6 +36,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Character set and Collation](https://stackoverflow.com/questions/341273/what-does-character-set-and-collation-mean-exactly)
 - [Proper use of array in Postgresql](https://stac43912/what-are-the-proper-use-cases-for-the-postgresql-array-datatype)
 - [Why do you create a View in a database?](https://stackoverflow.com/questions/1278521/why-do-you-create-a-view-in-a-database)
+- [Best practices for multi-language database design](https://stackoverflow.com/questions/929410/what-are-best-practices-for-multi-language-database-design)
 
 ### dba.stackexchange
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
@@ -56,9 +57,9 @@ Some items in this list could easily fit in more than one category, so to make s
 - [A guide to database performance for developers](https://use-the-index-luke.com/)
 - [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 - [Database Journal - FEATURED DATABASE ARTICLES](https://www.databasejournal.com/)
-**Multi Language Database Design**
 - [Multilanguage Database Design in MySQL](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
-- [Best practices for multi-language database design](https://stackoverflow.com/questions/929410/what-are-best-practices-for-multi-language-database-design)
+
+
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
 - [git pull Vs git fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch/58743394#58743394)
