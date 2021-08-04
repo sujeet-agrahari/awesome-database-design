@@ -41,6 +41,8 @@ Some items in this list could easily fit in more than one category, so to make s
 ### dba.stackexchange
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
 - [Super type/Sub type design pattern II](https://dba.stackexchange.com/questions/149904/how-to-model-an-entity-type-that-can-have-different-sets-of-attributes)
+- [Using NULL properly- You decide ](https://dba.stackexchange.com/questions/5222/why-shouldnt-we-allow-nulls)
+
 
 ### Quora
 - [Difference between NF, 2NF, and 3NF](https://www.quora.com/What-is-the-difference-between-NF-2NF-and-3NF)
