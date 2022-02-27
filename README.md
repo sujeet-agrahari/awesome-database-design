@@ -24,6 +24,8 @@ Some items in this list could easily fit in more than one category, so to make s
 - [B Trees and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8)
 - [Introduction to RDBMS and design](https://www.youtube.com/watch?v=Jk0r7vbzzL0&list=PL7NE8oKPrqN4hlEczr_aGWgeCHO--6UNJ)
 - [Database Sharding Crash Course (with Postgres examples)](https://www.youtube.com/watch?v=d1fXBLqnFvc&t)
+- [Subquery in SQL | Correlated Subquery ](https://www.youtube.com/watch?v=nJIEIzF7tDw)
+
 
 ### Stackoverflow
 - [Represent inheritance in a database](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database)
