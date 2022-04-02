@@ -65,6 +65,10 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Database Journal - FEATURED DATABASE ARTICLES](https://www.databasejournal.com/)
 - [Multilanguage Database Design in MySQL](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
 - [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
+- [The Difference between 2NF and 3NF](https://arctype.com/blog/2nf-3nf-normalization-example)
+
+### Cheatsheets
+- [Normal Forms](https://2.bp.blogspot.com/-wuinSTn-X4A/UwHmmceDQqI/AAAAAAAAJFo/5EjPg-LpAJc/s1600/Sivakumar_Vellingiri_Normal_Forms_Poster.Jpeg)
 
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
