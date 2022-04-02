@@ -68,7 +68,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [The Difference between 2NF and 3NF](https://arctype.com/blog/2nf-3nf-normalization-example)
 
 ### Cheatsheets
-- [Normal Forms](https://2.bp.blogspot.com/-wuinSTn-X4A/UwHmmceDQqI/AAAAAAAAJFo/5EjPg-LpAJc/s1600/Sivakumar_Vellingiri_Normal_Forms_Poster.Jpeg)
+- [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
 
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
