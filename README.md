@@ -69,6 +69,7 @@ Some items in this list could easily fit in more than one category, so to make s
 
 ### Cheatsheets
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
+- - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
 
 ## Bonus - Off Topic
 - [Ultimate guide to understanding CORS](https://softwareengineering.stackexchange.com/questions/252679/should-i-parse-xml-on-the-server-or-provide-a-proxy-and-let-the-browser-parse-it/253043#253043)
