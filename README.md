@@ -28,6 +28,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [SQL JOINS - Part 1](https://www.youtube.com/watch?v=0OQJDd3QqQM)
 - [SQL JOINS - Part 2](https://www.youtube.com/watch?v=RehbnzKHS28)
 - [Database Design Playlist](https://www.youtube.com/playlist?list=PLMi3udI_wFMWpfLPMvSnApwf4xr2a-sJ5)
+- [Carnegie Mellon University lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 
 ### Stackoverflow
