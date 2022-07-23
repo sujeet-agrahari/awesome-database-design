@@ -3,7 +3,7 @@
 > A collection of resources and tutorials to model entity relationship and design a better database schema.
 
 ## Preamble
-I am a self taught programmer. I understand the frustation and joy of being a self taugh progrmmer. I have myself spent a lot of time to just find proper
+I am a self taught programmer. I understand the frustation and joy of being a self taught progrmmer. I have myself spent a lot of time to just find proper
 resources for learning a new thing.
 When it comes to database design, there are not that much resources on internet. You have to collect many pieces and build your knowledge.
 
