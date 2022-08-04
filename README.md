@@ -68,6 +68,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [Multilanguage Database Design in MySQL](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
 - [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
 - [The Difference between 2NF and 3NF](https://arctype.com/blog/2nf-3nf-normalization-example)
+- [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 
 ### Cheatsheets
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
