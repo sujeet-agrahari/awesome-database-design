@@ -63,6 +63,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
 - [Database Normalization Tutorial with example](http://dotnetanalysis.blogspot.com/2012/01/database-normalization-sql-server.html)
 - [A guide to database performance for developers](https://use-the-index-luke.com/)
+- [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
 - [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 - [Database Journal - FEATURED DATABASE ARTICLES](https://www.databasejournal.com/)
 - [Multilanguage Database Design in MySQL](https://www.apphp.com/tutorials/index.php?page=multilanguage-database-design-in-mysql)
