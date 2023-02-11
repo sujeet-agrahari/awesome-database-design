@@ -71,6 +71,7 @@ Some items in this list could easily fit in more than one category, so to make s
 - [The Difference between 2NF and 3NF](https://arctype.com/blog/2nf-3nf-normalization-example)
 - [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+- [Single Table Inheritance Using Sequelize.js](https://sujeet-agrahari.hashnode.dev/sequelizejs-single-table-inheritance#heading-approach-iii)
 
 ### Cheatsheets
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
