@@ -12,25 +12,29 @@ Over the past few months, I've accumulated a vast collection of bookmarks, posts
 
 This list is organized into categories for easy navigation. If you're looking for a specific topic, you can use the search function (`Ctrl + F` or `Cmd + F` on macOS) to quickly find what you're looking for.
 
-## Topics:
 
+## Please contribute
+
+ 
+Are you passionate about database design? 🤔 Do you have some great resources or topics to share? We'd love to hear from you! 💡 Please feel free to contribute to the  repository and don't forget to raise a PR or suggest any improvements. 🙌 Thank you for your support! 
+## Topics:
 - [Naming Convention](#naming-convention)
 - [Normalization](#normalization)
 - [Entity-relationship modeling](#entity-relationship-modeling)
 - [Conceptual database design](#conceptual-database-design)
 - [Hierarchical data modeling](#hierarchical-data-modeling)
 - [Logical database design](#logical-database-design)
-- [Views](#views)
-- [Database Indexes](#database-indexes)
-- [Database Sharding](#database-sharding)
-- [SQL Joins](#sql-joins)
 - [Inheritance in database design](#inheritance-in-database-design)
 - [Multi-language database design](#multi-language-database-design)
 - [Subtype/supertype design pattern](#subtypesupertype-design-pattern)
+- [Database Sharding](#database-sharding)
+- [Views](#views)
+- [Database Indexes](#database-indexes)
 - [SQL](#sql)
 - [Database Lessons](#database-lessons)
 - [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
 - [Cheatsheets](#cheatsheets)
+
 
 ### Naming Convention
 
@@ -39,8 +43,6 @@ This list is organized into categories for easy navigation. If you're looking fo
 
 ### Normalization
 
-These resources cover the topic of normalization and provide explanations of first normal form (1NF), second normal form (2NF), third normal form (3NF), and fourth normal form (4NF).
-
 - [Normalization - 1NF, 2NF, 3NF and 4NF](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 - [Difference between NF, 2NF, and 3NF](https://www.quora.com/What-is-the-difference-between-NF-2NF-and-3NF)
 - [Database Normalization Tutorial with example](http://dotnetanalysis.blogspot.com/2012/01/database-normalization-sql-server.html)
@@ -48,15 +50,11 @@ These resources cover the topic of normalization and provide explanations of fir
 
 ### Entity-relationship modeling
 
-These resources cover the topic of entity-relationship modeling, which is an approach to conceptual database design.
-
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Data Modeling - Complex Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
 - [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 
 ### Conceptual database design
-
-These resources cover the topic of conceptual database design and entity-relationship modeling.
 
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Database Conceptual Design](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
@@ -64,16 +62,12 @@ These resources cover the topic of conceptual database design and entity-relatio
 
 ### Hierarchical data modeling
 
-These resources cover the topic of hierarchical data modeling and discuss various techniques for storing and managing hierarchical data in a relational database.
-
 - [Models for Hierarchical Data in SQL](https://www.youtube.com/watch?v=wuH5OoPC3hA)
 - [Storing hierarchical data in a relational database](https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database)
 - [Managing hierarchical data in mysql](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 - [Managing hierarchical RDBSM](http://troels.arvin.dk/db/rdbms/links/#hierarchical)
 
 ### Logical database design
-
-These resources cover the topic of logical database design, including complex relationships.
 
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Data Modeling - Complex Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
@@ -90,15 +84,6 @@ These resources cover the topic of logical database design, including complex re
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
 - [B Trees and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8)
 - [A guide to database performance for developers](https://use-the-index-luke.com/)
-
-### Database Sharding
-
-- [Database Sharding Crash Course (with Postgres examples)](https://www.youtube.com/watch?v=d1fXBLqnFvc&t)
-
-### SQL Joins
-
-- [SQL JOINS - Part 1](https://www.youtube.com/watch?v=0OQJDd3QqQM)
-- [SQL JOINS - Part 2](https://www.youtube.com/watch?v=RehbnzKHS28)
 
 ### Inheritance in database design
 
@@ -122,6 +107,9 @@ These resources cover the topic of logical database design, including complex re
 - [Super type/Sub type design pattern I](https://dba.stackexchange.com/questions/140604/implementing-subtype-of-a-subtype-in-type-subtype-design-pattern-with-mutually-e)
 - [Super type/Sub type design pattern II](https://dba.stackexchange.com/questions/149904/how-to-model-an-entity-type-that-can-have-different-sets-of-attributes)
 
+### Database Sharding
+
+- [Database Sharding Crash Course (with Postgres examples)](https://www.youtube.com/watch?v=d1fXBLqnFvc&t)
 ### SQL
 
 - [SQL Training Videos](http://www.metamanager.com/cbt)
@@ -130,7 +118,10 @@ These resources cover the topic of logical database design, including complex re
 
 - [Subquery in SQL | Correlated Subquery ](https://www.youtube.com/watch?v=nJIEIzF7tDw)
 - [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
-
+- [Interactive SQL Lessons](https://sqlbolt.com/)
+- [SQL tutorial and exercises](https://sqlzoo.net/)
+- [SQL JOINS - Part 1](https://www.youtube.com/watch?v=0OQJDd3QqQM)
+- [SQL JOINS - Part 2](https://www.youtube.com/watch?v=RehbnzKHS28)
 ### Database Lessons
 
 - [Database Lessons](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
@@ -152,3 +143,4 @@ These resources cover the topic of logical database design, including complex re
 
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
 - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
+
