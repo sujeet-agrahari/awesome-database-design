@@ -13,10 +13,6 @@ Over the past few months, I've accumulated a vast collection of bookmarks, posts
 This list is organized into categories for easy navigation. If you're looking for a specific topic, you can use the search function (`Ctrl + F` or `Cmd + F` on macOS) to quickly find what you're looking for.
 
 
-## Please contribute
-
- 
-Are you passionate about database design? 🤔 Do you have some great resources or topics to share? We'd love to hear from you! 💡 Please feel free to contribute to the  repository and don't forget to raise a PR or suggest any improvements. 🙌 Thank you for your support! 
 ## Topics:
 - [Naming Convention](#naming-convention)
 - [Normalization](#normalization)
@@ -34,7 +30,7 @@ Are you passionate about database design? 🤔 Do you have some great resources 
 - [Database Lessons](#database-lessons)
 - [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
 - [Cheatsheets](#cheatsheets)
-
+- [Contribute](#please-contribute)
 
 ### Naming Convention
 
@@ -144,3 +140,16 @@ Are you passionate about database design? 🤔 Do you have some great resources 
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
 - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
 
+## Please contribute
+
+ 
+Are you passionate about database design? 🤔 Do you have some great resources or topics to share? We'd love to hear from you! 💡 Please feel free to contribute to the  repository and don't forget to raise a PR or suggest any improvements. 🙌 Thank you for your support!
+
+### Follow these steps to contribute
+1. Clone the repository to your local machine using the git clone command.
+2. Make changes to the `README.md` file by editing it in your preferred text editor. You can add new links or suggest modifications to existing ones.
+3. Commit your changes using the `git commit` command. Make sure to include a *clear and concise commit message* that describes the changes you made.
+4. Push your changes to the repository using the git push command.
+5. Create a pull request by navigating to the original repository and clicking the "*New pull request*" button. GitHub will guide you through the process of creating a pull request.
+6. Wait for the repository owner to review and merge your changes. Be sure to respond to any feedback or comments they provide.
+7. If your changes are accepted, you can continue contributing to the repository by repeating the above steps for additional changes.
