@@ -70,6 +70,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 - [Single Table Inheritance Using Sequelize.js](https://sujeet-agrahari.hashnode.dev/sequelizejs-single-table-inheritance#heading-approach-iii)
+- [Stanford Database Courses](https://online.stanford.edu/courses/soe-ydatabases-databases)
 
 ### Cheatsheets
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
