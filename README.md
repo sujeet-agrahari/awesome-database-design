@@ -30,6 +30,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Database Lessons](#database-lessons)
 - [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
 - [Cheatsheets](#cheatsheets)
+- [Database Design Tool](#database-design-tools)
 - [Contribute](#please-contribute)
 
 ### Naming Convention
@@ -140,6 +141,15 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
 - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
 
+### Database Design Tools
+- [Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
+- [DB DESIGNER](https://www.dbdesigner.net/)
+- [ArchiMate models and sketches](https://www.archimatetool.com/)
+- [PG Modeler](https://www.pgmodeler.io/)
+- [Dia Diagram Editor](http://dia-installer.de/)
+- [Data Modeling with Oracle SQL Developer](https://www.oracle.com/in/database/sqldeveloper/technologies/sql-data-modeler/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/database-designer.html)
 ## Please contribute
 
  
