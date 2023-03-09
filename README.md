@@ -14,24 +14,29 @@ This list is organized into categories for easy navigation. If you're looking fo
 
 
 ## Topics:
-- [Naming Convention](#naming-convention)
-- [Normalization](#normalization)
-- [Entity-relationship modeling](#entity-relationship-modeling)
-- [Conceptual database design](#conceptual-database-design)
-- [Hierarchical data modeling](#hierarchical-data-modeling)
-- [Logical database design](#logical-database-design)
-- [Inheritance in database design](#inheritance-in-database-design)
-- [Multi-language database design](#multi-language-database-design)
-- [Subtype/supertype design pattern](#subtypesupertype-design-pattern)
-- [Database Sharding](#database-sharding)
-- [Views](#views)
-- [Database Indexes](#database-indexes)
-- [SQL](#sql)
-- [Database Lessons](#database-lessons)
-- [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
-- [Cheatsheets](#cheatsheets)
-- [Database Design Tool](#database-design-tools)
-- [Contribute](#please-contribute)
+- [Awesome Database Design ](#awesome-database-design-)
+  - [Introduction](#introduction)
+  - [How to use this list](#how-to-use-this-list)
+  - [Topics:](#topics)
+    - [Naming Convention](#naming-convention)
+    - [Normalization](#normalization)
+    - [Entity-relationship modeling](#entity-relationship-modeling)
+    - [Conceptual database design](#conceptual-database-design)
+    - [Hierarchical data modeling](#hierarchical-data-modeling)
+    - [Logical database design](#logical-database-design)
+    - [Views](#views)
+    - [Database Indexes](#database-indexes)
+    - [Inheritance in database design](#inheritance-in-database-design)
+    - [Multi-language database design](#multi-language-database-design)
+    - [Subtype/supertype design pattern](#subtypesupertype-design-pattern)
+    - [Database Sharding](#database-sharding)
+    - [SQL](#sql)
+    - [Database Lessons](#database-lessons)
+    - [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
+    - [Cheatsheets](#cheatsheets)
+    - [Database Design Tools](#database-design-tools)
+  - [Please contribute](#please-contribute)
+    - [Follow these steps to contribute](#follow-these-steps-to-contribute)
 
 ### Naming Convention
 
@@ -150,6 +155,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Data Modeling with Oracle SQL Developer](https://www.oracle.com/in/database/sqldeveloper/technologies/sql-data-modeler/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/database-designer.html)
+- [Valentina Studeio 13](https://valentina-db.com/en/valentina-studio-13?ref=producthunt)
 ## Please contribute
 
  
