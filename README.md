@@ -80,6 +80,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 ### Views
 
 - [Why do you create a View in a database?](https://stackoverflow.com/questions/1278521/why-do-you-create-a-view-in-a-database)
+- [What are materialized views?](https://stackoverflow.com/questions/4463354/what-are-materialized-views)
 
 ### Database Indexes
 
