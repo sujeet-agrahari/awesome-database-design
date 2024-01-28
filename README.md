@@ -88,6 +88,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [MySQL: Building the best INDEX for a given SELECT](http://mysql.rjweb.org/doc.php/index_cookbook_mysql#many_to_many_mapping_table)
 - [B Trees and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8)
 - [A guide to database performance for developers](https://use-the-index-luke.com/)
+- [PostgreSQL Indexing : How, why, and when?](https://www.youtube.com/watch?v=clrtT_4WBAw)
 
 ### Inheritance in database design
 
