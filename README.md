@@ -151,8 +151,6 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
 
 ### Cheatsheets
-
-- [Normal Forms](https://drive.google.com/file/d/1ALvFpilIsD03YTW5tch_f-omhqMZoYqx/view?usp=sharing)
 - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
 
 ### Database Design Tools
