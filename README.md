@@ -36,6 +36,7 @@ This list is organized into categories for easy navigation. If you're looking fo
     - [Common Database Questions and Suggestions](#common-database-questions-and-suggestions)
     - [Cheatsheets](#cheatsheets)
     - [Database Design Tools](#database-design-tools)
+  - [Star History](#star-history)
   - [Please contribute](#please-contribute)
     - [Follow these steps to contribute](#follow-these-steps-to-contribute)
 
@@ -151,6 +152,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
 
 ### Cheatsheets
+
 - [SQL Commands](https://drive.google.com/file/d/1E0f4PC75wNCXxKHXxmx0Jq30BNUc1rKf/view?usp=sharing)
 
 ### Database Design Tools
@@ -166,6 +168,10 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Valentina Studeio 13](https://valentina-db.com/en/valentina-studio-13?ref=producthunt)
 - [Luna Modeler](https://www.datensen.com)
 - [Draw DB: Free, simple database design tool](https://github.com/drawdb-io/drawdb)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sujeet-agrahari/awesome-database-design&type=Date)](https://star-history.com/#sujeet-agrahari/awesome-database-design&Date)
 
 ## Please contribute
 
