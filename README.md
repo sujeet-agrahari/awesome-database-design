@@ -150,6 +150,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 
 - [Using NULL properly- You decide ](https://dba.stackexchange.com/questions/5222/why-shouldnt-we-allow-nulls)
 - [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
+- [Understanding Vacuuming in PostgreSQL](https://sujeet-agrahari.hashnode.dev/mastering-postgresql-vacuuming)
 
 ### Cheatsheets
 
