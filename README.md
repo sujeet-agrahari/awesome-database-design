@@ -169,6 +169,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Valentina Studeio 13](https://valentina-db.com/en/valentina-studio-13?ref=producthunt)
 - [Luna Modeler](https://www.datensen.com)
 - [Draw DB: Free, simple database design tool](https://github.com/drawdb-io/drawdb)
+- [SQL Studio](https://sql-studio.frectonz.et)
 
 ## Star History
 
