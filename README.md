@@ -57,6 +57,7 @@ This list is organized into categories for easy navigation. If you're looking fo
 - [Database Conceptual Design| Entities and Relationships](https://www.youtube.com/watch?v=r0S5QqX1XpU)
 - [Data Modeling - Complex Relationships](https://www.youtube.com/watch?v=ZTPAMJ9MzdY)
 - [A Quick-Start Tutorial on Relational Database Design](https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
+- [Choose your database identifiers wisely](https://racum.blog/articles/identifiers/)
 
 ### Conceptual database design
 
