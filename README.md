@@ -323,6 +323,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [ArchiMate Tool](https://www.archimatetool.com/) - Enterprise architecture modeling
 - [Vertabelo](https://www.vertabelo.com/) - Online database modeler
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Quick database diagrams
+- [Foxschema](https://foxschema.com) - Compares PostgreSQL schemas and generates database migrations, available as a web app, desktop app, or self-hosted.
 
 ### Migration Tools
 
