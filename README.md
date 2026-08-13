@@ -331,6 +331,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [Alembic](https://alembic.sqlalchemy.org/) - Python database migrations
 - [Prisma Migrate](https://www.prisma.io/migrate) - Modern migration tool
 - [Sqitch](https://sqitch.org/) - Database change management
+- [Bytebase](https://www.bytebase.com/) - Database schema migration with review and approval workflow
 
 ### Monitoring & Profiling
 
