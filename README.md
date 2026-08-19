@@ -323,6 +323,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [ArchiMate Tool](https://www.archimatetool.com/) - Enterprise architecture modeling
 - [Vertabelo](https://www.vertabelo.com/) - Online database modeler
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Quick database diagrams
+- [DBTool](https://github.com/achi777/db-tool) - Free cross-platform designer with live DDL preview and editable ER diagrams
 
 ### Migration Tools
 
