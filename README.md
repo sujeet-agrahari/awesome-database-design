@@ -359,6 +359,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [Encryption at Rest](https://www.postgresql.org/docs/current/encryption-options.html) - Data encryption
 - [Row Level Security](https://www.postgresql.org/docs/current/ddl-rowsecurity.html) - Fine-grained access control
 - [Database Audit Logging](https://www.postgresql.org/docs/current/pgaudit.html) - Tracking database changes
+- [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ### Data Integrity
 
