@@ -226,6 +226,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 
 - [SQL Style Guide](https://www.sqlstyle.guide/) - Writing readable SQL
 - [SQL Anti-patterns](https://pragprog.com/titles/bksqla/sql-antipatterns/) - Common mistakes to avoid
+- [SQL Traps](https://github.com/christianvadillo/sql-traps) - 15 silent SQL mistakes (NOT IN with NULLs, LEFT JOIN turned INNER, fan-out joins...), each with the fix and a DuckDB check
 - [Parameterized Queries](https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html) - Preventing SQL injection
 - [Transaction Best Practices](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/sql-server-transactions-and-error-handling/) - Managing transactions
 
@@ -292,6 +293,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/) - SQL coding challenges
 - [HackerRank SQL](https://www.hackerrank.com/domains/sql) - SQL practice problems
 - [SQLPad](https://sqlpad.io/) - Online SQL editor
+- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game solved by writing real SQL in the browser (DuckDB-WASM); first case free, full game paid
 
 ### Blogs & Articles
 
