@@ -293,7 +293,6 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/) - SQL coding challenges
 - [HackerRank SQL](https://www.hackerrank.com/domains/sql) - SQL practice problems
 - [SQLPad](https://sqlpad.io/) - Online SQL editor
-- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game solved by writing real SQL in the browser (DuckDB-WASM); first case free, full game paid
 
 ### Blogs & Articles
 
