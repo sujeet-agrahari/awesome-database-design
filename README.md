@@ -333,6 +333,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [Prisma Migrate](https://www.prisma.io/migrate) - Modern migration tool
 - [Sqitch](https://sqitch.org/) - Database change management
 - [Bytebase](https://www.bytebase.com/) - Database governance platform: UI-driven or GitOps workflow (versioned or declarative), SQL review, approval, and a full API
+- [SQL Migration Safety Checker](https://github.com/edilec/sql-migration-safety-checker) - Offline static review of SQL migration files under PostgreSQL 11+ assumptions; flags destructive statements, lock-heavy operations, and ordering risks.
 
 ### Monitoring & Profiling
 
