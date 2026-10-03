@@ -303,6 +303,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [MySQL Server Blog](https://mysqlserverteam.com/) - Official MySQL blog
 - [High Scalability](http://highscalability.com/) - Scalability case studies
 - [Database Trends and Applications](https://www.dbta.com/) - Industry news
+- [Postgres as Your Platform: Building Event-Driven Systems with Schema Changes](https://neon.com/blog/postgres-as-your-platform) - Event triggers, LISTEN/NOTIFY, transactional DDL, and the outbox pattern as design building blocks
 
 ## Tools & Software
 
