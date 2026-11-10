@@ -327,6 +327,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Quick database diagrams
 - [Schema3D](https://github.com/shane-jacobeen/schema3d) - Open-source 3D browser schema visualizer
 - [mcdview](https://mcdview.dev) - Generate shareable HTML ER diagrams from SQL or ORM schemas
+- [DbSchema](https://dbschema.com/) - Visual database designer with ER diagrams and schema sync, free Community Edition
 
 ### Migration Tools
 
