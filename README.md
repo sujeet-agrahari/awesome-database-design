@@ -290,6 +290,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [SQLBolt](https://sqlbolt.com/) - Interactive SQL lessons
 - [SQL Zoo](https://sqlzoo.net/) - SQL exercises
 - [PostgreSQL Exercises](https://pgexercises.com/) - PostgreSQL practice
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/) - Interactive PostgreSQL lessons
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/) - SQL coding challenges
 - [HackerRank SQL](https://www.hackerrank.com/domains/sql) - SQL practice problems
 - [SQLPad](https://sqlpad.io/) - Online SQL editor
