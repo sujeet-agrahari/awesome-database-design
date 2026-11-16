@@ -284,6 +284,7 @@ Over time, this collection has grown to include bookmarks, posts, courses, and l
 - [Database Internals](https://www.databass.dev/) - How databases work internally
 - [The Art of PostgreSQL](https://theartofpostgresql.com/) - PostgreSQL mastery
 - [High Performance MySQL](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/) - MySQL optimization
+- [Database Design Patterns](https://mokevnin.github.io/database-design-patterns/) - Free online catalog of relational schema design patterns and anti-patterns, PostgreSQL-based
 
 ### Interactive Learning
 
